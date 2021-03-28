@@ -1,0 +1,24 @@
+.leagues {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    text-align: center;
+}
+
+.up {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    height: auto;
+    width: 100%;
+}
+
+.nav {
+    position: absolute;
+    width: 100vw;
+    height: 2vh;
+}
+
+.nav img {
+    width: 25%;
+}

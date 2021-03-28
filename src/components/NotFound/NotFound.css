@@ -1,0 +1,47 @@
+.NotFound {
+    background-color: #212529;
+    text-align: center;
+    color: white;
+    height: 100vh;
+}
+
+
+/* 
+@media (max-width: 640px) {
+    .NotFound {
+        background-color: #212529;
+        text-align: center;
+        color: white;
+        height: 100vh;
+    }
+    h1 {
+        margin: 0 !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .NotFound {
+        background-color: #212529;
+        text-align: center;
+        color: white;
+        height: 100vh;
+    }
+}
+
+@media (min-width: 1024px) {
+    .NotFound {
+        background-color: #212529;
+        text-align: center;
+        color: white;
+        height: 100vh;
+    }
+}
+
+@media (min-width: 1200px) {
+    .NotFound {
+        background-color: #212529;
+        text-align: center;
+        color: white;
+        height: 100vh;
+    }
+} */
